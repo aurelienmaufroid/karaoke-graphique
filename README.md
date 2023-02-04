@@ -8,8 +8,11 @@ Stickers were also printed so that visitors could keep a souvenir of this memora
 Des stickers ont aussi été imprimé afin que les visiteurs puissent garder un souvenir de cette journée mémorable !*
 
 ## Results
-<img alt="result of this script" src="https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/output/sticker032.jpg">
-<img alt="stickers" src="https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/stickers02.png">
+<img alt="result of this script" src="https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/output/sticker032.jpg"><img alt="stickers" src="https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/stickers02.png">
+
+## Setup
+<img alt="installation" src="https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/photos/installation02.png" style="width: 300px;"> <img alt="installation" src="https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/photos/installation03.png" style="width: 300px;"> <img alt="installation" src="https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/photos/installation01.png" style="height: 300px;">
+
 
 ## License
 See the [LICENSE](https://github.com/aurelienmaufroid/image-dithering-filter/blob/main/LICENCE) file for license rights and limitations (MIT).
