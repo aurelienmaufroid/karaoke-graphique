@@ -15,4 +15,4 @@ Banque de mèmes fournie par <a href="http://yassminetissaoui.cf" target="_blank
 
 
 ## License
-See the [LICENSE](https://github.com/aurelienmaufroid/image-dithering-filter/blob/main/LICENCE) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/LICENSE) file for license rights and limitations (MIT).
