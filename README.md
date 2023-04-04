@@ -1,5 +1,5 @@
 # Karaoké graphique
-[![GitHub license](https://img.shields.io/github/license/aurelienmaufroid/image-dithering-filter)](https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/aurelienmaufroid/karaoke-graphique)](https://github.com/aurelienmaufroid/karaoke-graphique/blob/main/LICENSE)
 
 [EN] Script processing created for the <a href="https://jpo.dnmade-prevert.fr" target="_blank">JPO 2023</a> of the DNMADE graphisme augmenté of the high school Jacques Prévert in Boulogne-Billancourt. Script of random images which react to the sound, to the voice of the people who sing. This script is part of an installation composed of a Mac screen that broadcasts the chosen music and displays its lyrics, a video-projector that displays the result of the script and a microphone. Stickers were also printed so that visitors could keep a souvenir of this memorable day! <br/>
 Database of memes provided by <a href="http://yassminetissaoui.cf" target="_blank">Yassmine Tissaoui</a> and <a href="https://marinedrouin.fr/" target="_blank">Marine Drouin</a>.
